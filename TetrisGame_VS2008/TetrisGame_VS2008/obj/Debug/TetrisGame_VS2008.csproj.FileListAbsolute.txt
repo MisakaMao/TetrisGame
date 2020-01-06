@@ -1,0 +1,10 @@
+F:\c#\TetrisGame_VS2008\TetrisGame_VS2008\bin\Debug\TetrisGame_VS2008.exe
+F:\c#\TetrisGame_VS2008\TetrisGame_VS2008\bin\Debug\TetrisGame_VS2008.pdb
+F:\c#\TetrisGame_VS2008\TetrisGame_VS2008\obj\Debug\ResolveAssemblyReference.cache
+F:\c#\TetrisGame_VS2008\TetrisGame_VS2008\obj\Debug\TetrisGame_VS2008.exe
+F:\c#\TetrisGame_VS2008\TetrisGame_VS2008\obj\Debug\TetrisGame_VS2008.pdb
+E:\迅雷下载\TetrisGame_VS2008\TetrisGame_VS2008\bin\Debug\TetrisGame_VS2008.exe
+E:\迅雷下载\TetrisGame_VS2008\TetrisGame_VS2008\bin\Debug\TetrisGame_VS2008.pdb
+E:\迅雷下载\TetrisGame_VS2008\TetrisGame_VS2008\obj\Debug\TetrisGame_VS2008.csprojAssemblyReference.cache
+E:\迅雷下载\TetrisGame_VS2008\TetrisGame_VS2008\obj\Debug\TetrisGame_VS2008.exe
+E:\迅雷下载\TetrisGame_VS2008\TetrisGame_VS2008\obj\Debug\TetrisGame_VS2008.pdb
